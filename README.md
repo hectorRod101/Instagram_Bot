@@ -27,3 +27,7 @@ Depending on Browser:
 cd Instagram_Bot
 python3 bot.y
 ```
+### Step 3: Main menu.
+* * * Option 1 not implemented. Only 2 and 3 are functional.
+
+<img src="https://i.imgur.com/BrVI2JX.png" width="700" height="200" />
