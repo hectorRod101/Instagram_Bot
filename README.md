@@ -53,8 +53,17 @@ Can change how many accounts can be followed.
 
 <img src="https://i.imgur.com/SDHQvHa.png" width="700" height="200" />
 - Option Y: Searches account by given user.</br>
-- Option N: Not implemented.</br>
+- Option N: Not implemented.</br></br>
 
 Will select the first account that appears.</br>
 <img src="https://i.imgur.com/BHuWK4B.png" width="700" height="200" />
 
+### On Current Account Menu
+* * * Option 4 not implemented. Only 1, 2, 3, and 5 functional. * * *</br>
+
+<img src="https://i.imgur.com/Clp16nP.png" width="700" height="200" />
+- Option 1: Follow account if not following.</br>
+- Option 2: Unfollows account if not followed.</br>
+- Option 3: Comments on random picture of account.</br>
+--> * * * Make sure to add text into file comment.txt. * * *</br>
+- Option 4: Log out of bot account and exit bot program.
