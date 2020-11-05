@@ -44,16 +44,16 @@ Can change how many accounts can be followed.
 * * * Option 2 and 3 not implemented. Only 1, 4, and 5 are functional. * * *</br>
 
 <img src="https://i.imgur.com/8pZj1aq.png" width="700" height="200" />
-- Option 1: Follows accounts that are suggested to you.
-- Option 2: You are able to search for a specific account.
-- Option 3: Log out of instagram bot.
+- Option 1: Follows accounts that are suggested to you.</br>
+- Option 2: You are able to search for a specific account.</br>
+- Option 3: Log out of instagram bot.</br>
 
 ### Search Account Menu
 * * * Option N not implemented. Only Y functional. * * *</br>
 
 <img src="https://i.imgur.com/SDHQvHa.png" width="700" height="200" />
-- Option Y: Searches account by given user.
-- Option N: Not implemented.
+- Option Y: Searches account by given user.</br>
+- Option N: Not implemented.</br>
 
 Will select the first account that appears.
 <img src="https://i.imgur.com/BHuWK4B.png" width="700" height="200" />
