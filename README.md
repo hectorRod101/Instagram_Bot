@@ -55,6 +55,6 @@ Can change how many accounts can be followed.
 - Option Y: Searches account by given user.</br>
 - Option N: Not implemented.</br>
 
-Will select the first account that appears.
+Will select the first account that appears.</br>
 <img src="https://i.imgur.com/BHuWK4B.png" width="700" height="200" />
 
