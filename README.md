@@ -12,11 +12,6 @@ Depending on Browser:
 - Look into [ChromeDrive](https://chromedriver.chromium.org/getting-started) documentation how to setup.</br>
 -> Make sure to move Drive into main project folder.
 
-- If you have the correct version of Python, you can run the program in the command prompt / terminal.
-```bash
-cd Instagram_Bot
-python3 bot.y
-```
 ## Usage
 ### Step 1: Change this part of the code.
 ```bash
@@ -26,5 +21,9 @@ python3 bot.y
         # ******************************
         botOld = InstagramBot('USERNAME', 'PASSWORD')
         driver = botOld.driver
-
+```
+### Step 2: Prerequisites completed.
+```bash
+cd Instagram_Bot
+python3 bot.y
 ```
