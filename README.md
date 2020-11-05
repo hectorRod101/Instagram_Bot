@@ -19,3 +19,12 @@ python3 bot.y
 ```
 ## Usage
 ### Step 1: Change this part of the code.
+```bash
+ # Create Bot with parameters.
+        # ******************************
+        # IMPORTANT: Delete parameters USERNAME and PASSWORD and enter YOUR log in information.
+        # ******************************
+        botOld = InstagramBot('USERNAME', 'PASSWORD')
+        driver = botOld.driver
+
+```
