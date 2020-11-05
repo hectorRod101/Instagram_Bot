@@ -6,7 +6,7 @@ faster than a human.
 ## Prerequisites
 
 - If you don't have [Python](https://www.python.org/downloads/) installed.
-- If you don't have [Selenium](https://pypi.org/project/selenium/) installed.
+- If you don't have [Selenium](https://pypi.org/project/selenium/) installed.</br>
 Depending on Browser:
 - If you don't have [ChromeDrive](https://chromedriver.chromium.org) installed.
 - Look into [ChromeDrive](https://chromedriver.chromium.org/getting-started) documentation how to setup.
