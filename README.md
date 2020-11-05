@@ -17,3 +17,5 @@ Depending on Browser:
 cd Instagram_Bot
 python3 bot.y
 ```
+## Usage
+###Step 1: Change this part of the code.
