@@ -28,6 +28,15 @@ cd Instagram_Bot
 python3 bot.y
 ```
 ### Step 3: Main menu.
-* * * Option 1 not implemented. Only 2 and 3 are functional.
+* * * Option 1 not implemented. Only 2 and 3 are functional. * * *</br>
 
 <img src="https://i.imgur.com/BrVI2JX.png" width="700" height="200" />
+
+Can change how many accounts can be followed.
+```bash
+ # Define how many accounts to add. 
+    # Can be changed.
+    ACCOUNT_TO_ADD = 2
+```
+<img src="https://i.imgur.com/QedCUmL.png" width="700" height="200" />
+
