@@ -1,5 +1,5 @@
 # Instagram_Bot
-[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
+[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)</br>
 Simple Instagram Bot to interact with [Instagram](https://www.instagram.com) to perform automated tasks
 faster than a human.
 
