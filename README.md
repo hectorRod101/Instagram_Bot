@@ -10,6 +10,7 @@ faster than a human.
 Depending on Browser:
 - If you don't have [ChromeDrive](https://chromedriver.chromium.org) installed.
 - Look into [ChromeDrive](https://chromedriver.chromium.org/getting-started) documentation how to setup.
+-> Make sure to move Drive into main project folder.
 
 - If you have the correct version of Python, you can run the program in the command prompt / terminal.
 ```bash
