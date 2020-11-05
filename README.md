@@ -7,5 +7,12 @@ faster than a human.
 
 - If you don't have [Python](https://www.python.org/downloads/) installed.
 - If you don't have [Selenium](https://pypi.org/project/selenium/) installed.
-- If you have the correct version of Python, you can run the program in the command prompt / terminal.
+Depending on Browser:
+- If you don't have [ChromeDrive](https://chromedriver.chromium.org) installed.
+- Look into [ChromeDrive](https://chromedriver.chromium.org/getting-started) documentation how to setup.
 
+- If you have the correct version of Python, you can run the program in the command prompt / terminal.
+```bash
+cd Instagram_Bot
+python3 bot.y
+```
